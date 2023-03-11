@@ -142,6 +142,3 @@ public class NewJFrame1 extends javax.swing.JFrame {
 // End of variables declaration
 }
 
-    // Variables declaration - do not modify//GEN-BEGIN:variables
-    // End of variables declaration//GEN-END:variables
-
